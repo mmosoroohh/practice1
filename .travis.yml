@@ -1,0 +1,41 @@
+language: python
+
+python:
+  - 3.6 
+
+before_install:
+  - echo "START"
+
+install:
+  - pip install -r requirements.txt  
+
+script:
+  - nosetests
+  - nosetests --with-coverage --cover-erase --cover-package=app
+
+# blacklist  
+branches:
+  except:
+    - develop
+    - 
+
+# whitelist   
+branches:
+  only:
+    - master
+    - login
+
+deploy:
+  provider: heroku
+  api_key: 
+  app:
+    master: practice1
+
+notifications:  # specify build notifications
+  email:
+    - arnoldmaengwe@gmail.com
+
+after_success: "coveralls"
+  
+on_success: change
+on_failure: always
