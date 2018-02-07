@@ -1,9 +1,9 @@
-asn1crypto==0.22.0
+astroid==1.5.3
 click==6.7
 cryptography==1.9
 enum34==1.1.6
 Flask==0.12.2
-idna==2.5
+Flask-WTF==0.14.2
 ipaddress==1.0.17
 itsdangerous==0.24
 Jinja2==2.10
@@ -20,6 +20,8 @@ six==1.10.0
 SQLAlchemy==1.2.2
 stevedore==1.28.0
 virtualenv==15.1.0
-virtualenv-clone==0.2.6
 virtualenvwrapper==4.8.2
-Werkzeug==0.14.1
+pylint==1.7.2
+wtf==0.1
+WTForms==2.1
+
