@@ -1,17 +1,4 @@
-<<<<<<< HEAD
-# practice1 app
-This is a practice on my repo on Git Hub that is still under construction
 
-
-
-Running the app on your machine
-
-run git clone https://github.com/mmosoroohh/practice1 or download zip file.
-- create a virtualenv venv.
-- run pip install -r requirements.txt.
-
-
-=======
 # Flask App
 
 
@@ -31,4 +18,4 @@ Running the app on your machine
  2. create a virtualenv venv folder.
  3. run pip install -r requirements.txt.
  4. run python app.py in your terminal to view app on browser.
->>>>>>> d2cdad2245911d2a5dcb724cf9bec0e639ecb9e7
+
