@@ -15,8 +15,8 @@ ToDo: Form Validation, Backend Integration, Add Article.
 Running the app on your machine
 
 run git clone https://github.com/mmosoroohh/practice1 or download zip file.
-- create a virtualenv venv.
-- run pip install -r requirements.txt.
+- create virtualenv venv .
+- run pip install -r requirements.txt
 - run python app.py in your terminal/command prompt to view app on your broswer. 
 
 
