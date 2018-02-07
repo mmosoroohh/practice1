@@ -1,4 +1,4 @@
-https://travis-ci.org/mmosoroohh/practice1.svg?branch=master
+[![TeamCity (simple build status)](https://img.shields.io/teamcity/http/teamcity.jetbrains.com/s/bt345.svg)]()
 
 # practice1 app
 This is a practice on my repo on Git Hub that is still under construction
