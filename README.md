@@ -1,3 +1,5 @@
+https://travis-ci.org/mmosoroohh/practice1.svg?branch=master
+
 # practice1 app
 This is a practice on my repo on Git Hub that is still under construction
 
