@@ -1,0 +1,4 @@
+ venv/
+ .travis.yml
+ requirements.txt
+ data.pyc
