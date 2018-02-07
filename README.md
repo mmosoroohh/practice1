@@ -1,6 +1,6 @@
 
 # Flask App
-
+[![Codeship](https://img.shields.io/codeship/d6c1ddd0-16a3-0132-5f85-2e35c05e22b1/master.svg)]() [![TeamCity CodeBetter Coverage](https://img.shields.io/teamcity/coverage/bt428.svg)]()                 [![PyPI](https://img.shields.io/pypi/pyversions/Django.svg)]()
 
 This is a platform where you can be able to show your Articles online
 you online need to create a account with us and your article/articles can be published online for others to see.
@@ -16,6 +16,6 @@ ToDo: Form Validation, Backend Intergration, Add Article/s and Database Integrat
 Running the app on your machine
  1. run https://github.com/mmosoroohh/practice1.git or download zip file.
  2. create a virtualenv venv folder.
- 3. run pip install -r requirements.txt.
- 4. run python app.py in your terminal to view app on browser.
+ 3. run pip install -r requirements.txt. [![Requires.io](https://img.shields.io/requires/github/celery/celery.svg)]()
+ 4. run python app.py in your terminal to view app on browser. [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/nimelepbpejjlbmoobocpfnjhihnpked.svg)]()
 
