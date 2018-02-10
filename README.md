@@ -1,6 +1,6 @@
 
 # Flask App
-[![Build Status](https://travis-ci.org/travis-ci/travis-web.svg?branch=master)](https://travis-ci.org/travis-ci/travis-web) [![TeamCity CodeBetter Coverage](https://img.shields.io/teamcity/coverage/bt428.svg)]()                 [![PyPI](https://img.shields.io/pypi/pyversions/Django.svg)]()
+[![Build Status](https://travis-ci.org/mmosoroohh/practice1.svg?branch=master)](https://travis-ci.org/mmosoroohh/practice1) [![TeamCity CodeBetter Coverage](https://img.shields.io/teamcity/coverage/bt428.svg)]()                 [![PyPI](https://img.shields.io/pypi/pyversions/Django.svg)]()
 
 This is a platform where you can be able to show your Articles online
 you online need to create a account with us and your article/articles can be published online for others to see.
